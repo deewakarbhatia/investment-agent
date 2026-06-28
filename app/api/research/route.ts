@@ -1,7 +1,8 @@
 import { NextRequest } from 'next/server'
 import { runInvestmentAgent } from '@/lib/agent'
 
-export const runtime = 'nodejs'
+export const runtime = 'edge'
+export const dynamic = 'force-dynamic'
 export const maxDuration = 120
 
 export async function POST(req: NextRequest) {
