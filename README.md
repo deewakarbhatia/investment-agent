@@ -2,6 +2,8 @@
 
 > Built for the InsideIIM × Altuni AI Labs AI Engineer Intern assignment.
 
+🔴 **Live Demo:** [https://investment-agent-rouge.vercel.app](https://investment-agent-rouge.vercel.app)
+
 ---
 
 ## Overview
